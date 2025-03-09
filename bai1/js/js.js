@@ -60,3 +60,7 @@
 
 // document.getElementById("demo3").innerHTML = "Toi ten la :" + toi.ten + " voi" + toi.age +  " tuoi " + " va so thich la di xe " + toi.xe.xe1 + " va " + toi.xe.xe2 + " va " + toi.xe.xe3;
 
+let xe1 = "honda future";
+let xe2 = "yamaha exciter";
+
+document.getElementById("demo3").innerHTML = xe1 + " " + xe2;
